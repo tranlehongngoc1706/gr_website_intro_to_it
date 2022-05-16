@@ -187,3 +187,19 @@ p {
     font-weight: normal;
     
 }
+
+.comparison{
+    margin-left: 20px;
+}
+
+span {
+    font-size: larger;
+    font-weight: lighter;
+    padding: 10px;
+}
+
+.gr_process{
+    padding: 100px;
+    font-weight: lighter;
+    font-size: larger;
+}
